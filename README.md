@@ -3,21 +3,38 @@
 - 🌱 I’m currently learning SpringBoot, Docker, Kubernetes
 - 💞️ I’m looking to collaborate or teach programming
 
-import SoftwareDeveloper from 'luisgutierrez';
+```java
+package dbacilio88.cbaciliod;
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Luis Enrique';
-  title    = 'Software developer';
-  company  = 'Freelancer | Remote';
-  location = 'Lima, PE';
+
+  private String name;
+  private String title;
+  private String company;
+  private String location;
+
+  public Bio(){
+    super();
+    this.name     = "Christian David";
+    this.title    = "Software developer";
+    this.company  = "Remote";
+    this.location = "Lima, PE";
+  }
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['Java', 'Kotlin', 'PHP', 'TypeScript', 'JavaScript'];
-  databases  = ['MySQL', 'PostgreSQL', 'MongoDB'];
-  frameworks = ['Spring framework', 'Laravel', 'Flutter', 'Angular'];
-}
+   public Bio(){
+    super();
+   }
 
+  void getSkillInformation(){
+    List<String> languages = List.of("Java", "Go", "NodeJs", "TypeScript", "JavaScript");
+    List<String> databases = List.of("MySQL", "PostgreSQL", "MongoDB", "Oracle", "Redis");
+    List<String> frameworks = List.of("Spring framework", "Angular");
+  }
+
+}
+```
 - 📫 How to reach me ...
 
 <!---
