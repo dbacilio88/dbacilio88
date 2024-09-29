@@ -44,5 +44,11 @@ You can click the Preview link to take a look at your changes.
 # stats
 
 ![dbacilio88's Stats](https://github-readme-stats.vercel.app/api?username=dbacilio88&theme=onedark&show_icons=true&hide_border=false&count_private=true)
+
+# Streak
+
 ![dbacilio88's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dbacilio88&theme=onedark&hide_border=false)
+
+# Top Languages
+
 ![dbacilio88's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbacilio88&theme=onedark&show_icons=true&hide_border=false&layout=compact)
