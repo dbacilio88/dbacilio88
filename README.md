@@ -52,5 +52,3 @@ You can click the Preview link to take a look at your changes.
 # Top Languages
 
 ![dbacilio88's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbacilio88&theme=onedark&show_icons=true&hide_border=false&layout=compact)
-
-[![dbacilio88's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dbacilio88)](https://github.com/anuraghazra/github-readme-stats)
